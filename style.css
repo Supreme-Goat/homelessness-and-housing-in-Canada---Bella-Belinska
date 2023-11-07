@@ -190,7 +190,7 @@ li{
 
 #how_to_help{
   position: absolute;
-  top: 2000px;
+  top: 2030px;
   left: 1050px;
   text-align: center;
 
@@ -223,4 +223,10 @@ li{
   top: 2050px;
   left: 200px;
   border: 25px solid rgb(41, 49, 51);
+}
+#youtube-video{
+  position: absolute;
+  top: 2450px;
+  left:1750px ;
+  
 }
